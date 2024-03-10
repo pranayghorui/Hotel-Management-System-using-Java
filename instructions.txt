@@ -1,0 +1,12 @@
+1. build path of rs2xml.jar
+to the classpath of project file
+
+2. set the username and password of your MySQL Database at the place of username and password variable of String type in the ConnectionClass.
+
+3. uncomment the necessary portions of the code
+	ad comment out the demo dummy portions
+
+4. Here in the executable demo Application 
+	Username and password both is used as "admin"
+	Username = admin
+	password = admin
